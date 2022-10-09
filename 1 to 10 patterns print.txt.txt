@@ -10,6 +10,7 @@ public class Loops{
                 System.out.print(nums + " ");
                 nums++;
                 }
+                //hi here print your staement
             System.out.println();  
         }
     }
